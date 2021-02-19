@@ -6,3 +6,5 @@ run:
   env:
     - name: FOO
       value: bar
+  network:
+    port: 8000
